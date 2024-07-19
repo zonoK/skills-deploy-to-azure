@@ -8,7 +8,7 @@ on:
 env:
   IMAGE_REGISTRY_URL: ghcr.io
   ###############################################
-  ### Replace zonoK with GitHub username ###
+  ### Replace zonoK with GitHub username  ###
   ###############################################
   DOCKER_IMAGE_NAME: zonoK-azure-ttt
   AZURE_WEBAPP_NAME: zonoK-ttt-app
