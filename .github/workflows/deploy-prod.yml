@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      
 
 env:
   IMAGE_REGISTRY_URL: ghcr.io
